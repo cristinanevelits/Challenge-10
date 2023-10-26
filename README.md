@@ -15,7 +15,7 @@
 
 ## Screenshots:
 
- ![VIDEO]()
+ ![VIDEO](https://github.com/cristinanevelits/Challenge-10/blob/main/examples/Challenge10.webm)
 
 
 ## GitHub Repo link: https://github.com/cristinanevelits/Challenge-10
